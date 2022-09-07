@@ -1,4 +1,4 @@
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/hacz.svg)](https://betteruptime.com/?utm_source=status_badge)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/hacz.svg)](https://eutiveumsonho.betteruptime.com/?utm_source=status_badge)
 
 <p align="center">
   <img alt="Eu tive um sonho" src="https://raw.githubusercontent.com/eutiveumsonho/.github/main/profile/assets/logo-512x512.png" height="192" width="192" />
