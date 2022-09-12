@@ -14,7 +14,7 @@ Aqui você encontra o [Roadmap do Eu tive um sonho](https://github.com/orgs/euti
 
 ## Quer contribuir?
 
-Basta entrar em contato, da forma que desejar:
+Basta entrar em contato, da forma que desejar, seja para solicitar uma nova funcionalidade, reportar um problema ou qualquer outro comentário. Feedbacks são mais do que bem vindos:
 
 - [Entre em contato através do canal #contribuições no Slack](https://join.slack.com/t/eutiveumsonho/shared_invite/zt-1fnihl7c3-5CBOc9lCElrsgufa2wVCdw).
 - Envie um email para marcelo@eutiveumsonho.com.
