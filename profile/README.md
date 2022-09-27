@@ -8,9 +8,9 @@
 
 ---
 
-## [Roadmap](https://github.com/orgs/eutiveumsonho/projects/1)
+## [O rumo do Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1)
 
-Aqui você encontra o [Roadmap do Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1): as funcionalidades sendo construídas, as funcionalidades desejadas, o andamento da resolução de bugs, entre outros.
+Aqui você encontra o [o rumo do Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1): as funcionalidades sendo construídas, as funcionalidades desejadas, ideias, o andamento da resolução de bugs, entre outros.
 
 ## Quer contribuir?
 
