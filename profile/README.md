@@ -3,19 +3,18 @@
 <p align="center">
   <img alt="Eu tive um sonho" src="https://raw.githubusercontent.com/eutiveumsonho/.github/main/profile/assets/logo-512x512.png" height="192" width="192" />
   <h3 align="center">Eu tive um sonho</h3>
-  <p align="center">A maior comunidade conectada por sonhos, do Brasil para o mundo.</p>
+  <p align="center">The largest community connected by dreams, from Brazil to the world.</p>
 </p>
 
 ---
 
-## [O rumo do Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1)
+## [Eu tive um sonho's roadmap](https://github.com/orgs/eutiveumsonho/projects/1)
 
-Aqui você encontra o [o rumo do Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1): as funcionalidades sendo construídas, as funcionalidades desejadas, ideias, o andamento da resolução de bugs, entre outros.
+Here you will find the roadmap of [Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1): the features being built, desired features, ideas, progress on bug fixes, among others.
 
-## Quer contribuir?
+## Want to contribute?
 
-Basta entrar em contato, da forma que desejar, seja para solicitar uma nova funcionalidade, reportar um problema ou qualquer outro comentário. Feedbacks são mais do que bem vindos:
+Just get in touch in whichever way you prefer, whether to request a new feature, report a problem, or any other comment. Feedback is more than welcome:
 
-- [Entre em contato através do canal #contribuições no Slack](https://join.slack.com/t/eutiveumsonho/shared_invite/zt-1fnihl7c3-5CBOc9lCElrsgufa2wVCdw).
-- Envie um email para marcelo@eutiveumsonho.com.
-- Abra uma issue ou pull-request aqui no GitHub, caso você seja uma pessoa desenvolvedora.
+- Send an email to marcelo@eutiveumsonho.com.
+- Open an issue or pull request here on GitHub, if you're a developer.
