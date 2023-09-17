@@ -8,10 +8,6 @@
 
 ---
 
-## [Eu tive um sonho's roadmap](https://github.com/orgs/eutiveumsonho/projects/1)
-
-Here you will find the roadmap of [Eu tive um sonho](https://github.com/orgs/eutiveumsonho/projects/1): the features being built, desired features, ideas, progress on bug fixes, among others.
-
 ## Want to contribute?
 
 Just get in touch in whichever way you prefer, whether to request a new feature, report a problem, or any other comment. Feedback is more than welcome:
